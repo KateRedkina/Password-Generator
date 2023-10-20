@@ -10,7 +10,7 @@ Project is created using:
 * JavaScript
 
 ## Mockup
-![03-javascript-homework-demo](./assets/images/03-javascript-homework-demo.png)
+![03-javascript-homework-demo](./Assets/images/03-javascript-homework-demo.png)
 
 ## Installation
 To install the project on your local machine:
